@@ -1,6 +1,6 @@
 MIZU FUNKY 
 
-O jogo é um shooter 2D mostrando Mizu, uma rebelde contra a opressão de um mundo futurista. O jogador pode correr, pular e atirar.
+O jogo é um shooter 2D mostrando Mizu, uma rebelde contra a opressão de um mundo futurista. O jogador pode correr, pular e atirar. As cores são o foco do jogo, onde cada elemento conversa diretamente com as cores, a cidade, opreesiva e misteriosa, com vermelho e roxo, a leveza e liberdade da personagem com a azul, etc.
 
 Menu
 feito com um canvas onde contém botões(um para jogar e um para sair do jogo) e background mostrando a cidade
