@@ -12,4 +12,4 @@ Inimigos : Existem 2 tipos de inimigos no jogo, um que persegue o jogador utiliz
 Sistema de combate : baseado em velocidade em atenção, com inimigos estáticos atirando e outros te seguindo, e os projetéis retiram 20% da vida.
 
 
-link do drive com o Jogo  Unity https://drive.google.com/drive/folders/1Cyw_VzpTQlQWk5DuHU6Rx1djPyZe6YG5 
+link do drive com o Jogo  Unity https://drive.google.com/drive/folders/1Cyw_VzpTQlQWk5DuHU6Rx1djPyZe6YG5
