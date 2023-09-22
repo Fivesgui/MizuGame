@@ -14,4 +14,5 @@ Sistema de combate : baseado em velocidade em atenção, com inimigos estáticos
 
 link do drive com o Jogo  Unity https://drive.google.com/drive/folders/1Cyw_VzpTQlQWk5DuHU6Rx1djPyZe6YG5
 link do git do app mobile https://github.com/V3ktra/App-MizuFunky
+
 apresentação do jogo https://youtu.be/U_z1lrrIe1E
